@@ -1,16 +1,18 @@
 {
-  "name": "my-site",
+  "name": "intro",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^1.0.6",
     "gatsby": "^2.22.17",
     "gh-pages": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  },
-  "scripts": {
-      "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-    }
+  }
 }
