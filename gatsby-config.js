@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/intro",
   siteMetadata: {
     description: "Personal page of Kamlesh Tayade",
     locale: "en",
