@@ -1,0 +1,39 @@
+- profile:
+  initials: KT
+  name: Kamlesh Tayade
+  email: t.kamlesh@gmail.com
+  profession: Solution Architect
+  image: images/profile.jpg
+  location: Pune, India
+  relocation: true
+  company: UBS India
+  for_hire: false
+  focus: Cloud Migration
+  focus_url: https://azure.microsoft.com/en-gb/
+  about: |
+    Kamlesh is proven technoAgile transformation leader with diverse experience in leading global software delivery. He has deep understanding of technology transformations in the Hightech, Manufacturing, e-Governance, and Banking industries with a career spanning over 15 years. 
+    
+    He excels in rapidly translating technology into customer-centric value, global teams, and transforming them into high growth software application business. He led a global team which provided services across Cloud, BigData and Analytics, Automation, Product Engineering, and Enterprise IT. Expert in Java, Javascript, Python and Database technologies.
+    
+    He is a certified Agile Professional with Certified Scrum Master and Certified SAFe Agilist. 
+  skills:
+    - Java
+    - Javascript
+    - Micro-Services
+    - Data Visualization
+    - Cloud
+    - Database
+  tools:
+    - Java J2EE
+    - SpringIo
+    - Angular
+    - Oracle
+    - NoSql
+    - Tableau
+    - Netflix OSS
+    - ELK Stack
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
